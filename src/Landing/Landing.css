@@ -1,0 +1,25 @@
+.bg-image {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height:100%;
+    object-fit: cover;
+    object-position:center bottom;
+    filter: brightness(30%);
+}
+body{
+    overflow: hidden;
+}
+
+.massive
+
+{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+}
+.footer-flex{
+    font-size: 0.8rem;
+    
+}

@@ -1,0 +1,18 @@
+.patient-label {
+    /* margin-right: 230px; */
+    /* float: left; */
+ color: black;
+    font-family: 'Poppins', sans-serif;
+    
+    font-style: normal;
+font-weight: 400;
+font-size: 1em;
+
+}
+.label_name{
+    text-align:start;
+}
+
+body {
+    background-color: crimson;
+}
